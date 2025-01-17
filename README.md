@@ -5,7 +5,7 @@
 wxy-cli 是一个基于 Node.js 的命令行工具，用于快速创建和管理前端项目。
 
 ## 模板
-✅ 快速生成Vue3+TS+Vite+Pinia+ElementPlus+Axios+Mock的模板
+✅ 快速生成[Vue3+TS+Vite+Pinia+ElementPlus+Axios+Mock的模板](https://github.com/yyy102x/wxy-cli)
 
 ## 安装
 
